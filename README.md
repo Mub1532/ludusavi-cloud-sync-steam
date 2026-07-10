@@ -2,6 +2,7 @@
 
 - Script for Steam Games, to sync save data to your own cloud automatically, for games which do not support steam cloud.
 - Designed to be as seamless and close to steam cloud as possible, without needing to run in the background all the time and with the least interruptions as possible.
+- Designed to run even if the game is force closed (using steams stop game button - may not work on steam deck mode (have not tested))
 
 - This script automatically backs up, syncs and restores save data from your own cloud for games which do not support steam cloud. It only runs when needed when a game is launched.
 
