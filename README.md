@@ -31,7 +31,7 @@ Add this launch option to any steam game you want to back up
 
 
 
-## Notes & Future Improvements
+## Notes
 This script is for linux only.
 
 ## Requirements
