@@ -33,6 +33,7 @@ Add this launch option to any steam game you want to back up
 
 ## Notes
 This script is for linux only.
+Currently this script is for Steam Games only, not games added as Non Steam Games
 
 ## Requirements
 - [Ludusavi setup with cloud enabled](https://github.com/mtkennerly/ludusavi)
